@@ -5,3 +5,5 @@ Sega
 Otnachlo
 li
 sa
+NOVO MOLQ
+New line
